@@ -1,1 +1,2 @@
-Testando a mudança de info pelo github
+Testando a mudança de info pelo github.
+Mudança pelo github 2, simulando conflito.
