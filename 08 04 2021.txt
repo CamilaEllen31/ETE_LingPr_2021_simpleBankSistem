@@ -1,2 +1,5 @@
 Testando a mudança de info pelo github
 Linha pelo computador, simulado confito (12/04/2021)
+
+Mudança pelo github 2, simulando conflito.
+
